@@ -1,0 +1,13 @@
+
+.sysirr_home_header_avatar_div{
+    float: right;
+    margin-right: 20px;
+}
+.sysirr_home_header_avatar{
+    cursor: pointer;
+    
+    background-color: #fde3cf; 
+}
+.sysirr_home_header_avatar_text{
+    color: #f56a00;
+}

@@ -1,0 +1,20 @@
+.syspre_cchange_root{
+    background:white;
+    margin:20px;
+}
+.syspre_cchange_input{
+    width: 200px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.syspre_info_item_label
+{
+    display: inline-block;
+    width: 120px;
+    font-size:16px;
+    text-align: right;
+}
+.syspre_cchange_btn_search{
+    vertical-align: middle;
+    margin-left: 20px;
+}

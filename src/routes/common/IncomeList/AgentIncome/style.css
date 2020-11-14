@@ -1,0 +1,22 @@
+.agent_income_root{
+    margin: 20px;
+    height: calc(100vh - 64px);
+    vertical-align: middle;
+    line-height: calc(100vh - 64px);
+}
+.income_list_header_root
+{
+    height: 80px;
+    line-height: 80px;
+}
+.income_list_header_input
+{
+    width: 200px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.income_list_header_btn
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}

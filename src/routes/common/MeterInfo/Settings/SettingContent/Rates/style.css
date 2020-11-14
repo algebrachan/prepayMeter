@@ -1,0 +1,35 @@
+
+.rate_time_del_button {
+  cursor: pointer;
+  position: relative;
+  font-size: 20px;
+  color: #999;
+  transition: all 0.3s;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.rate_time_root
+{
+  padding: 10px;
+  text-align: center;
+}
+.rate_time_pick
+{
+    display: inline;
+
+}
+.setting_rates_timeline
+{
+
+  padding: 10px;
+  border: 1px solid #78c1e1;
+  border-radius: 10px;
+}
+.setting_rates_timeline_title
+{
+  text-align: center;
+}
+.setting_rates_timeline_btn
+{
+  margin:0 auto;
+}

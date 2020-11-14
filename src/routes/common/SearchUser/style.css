@@ -1,0 +1,27 @@
+.search_user{
+
+    margin:20px;
+}
+.search_user_input_wrap{
+    display: block;
+    margin:100px auto 0 auto;
+    text-align: center;
+}
+.search_user_result{
+    background-color: #fff;
+    display: block;
+    width:300px;
+    margin:0 auto;
+}
+.search_user_input_select{
+    
+    width: 120px;
+}
+.search_user_input_search{
+    margin-left: 10px;
+    width: 200px;
+}
+.search_user_input_add{
+    margin-left: 50px;
+    width: 120px;
+}

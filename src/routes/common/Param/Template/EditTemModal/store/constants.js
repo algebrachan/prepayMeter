@@ -1,0 +1,3 @@
+export const PARAM_MODAL_ADD = 'PARAM_MODAL_ADD';
+export const PARAM_MODAL_EDIT = 'PARAM_MODAL_EDIT';
+export const PARAM_MODAL_HIDE = 'PARAM_MODAL_HIDE';

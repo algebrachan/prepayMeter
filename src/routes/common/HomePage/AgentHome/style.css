@@ -1,0 +1,32 @@
+.agent_home_root
+{
+    padding: 20px;
+    height: calc(100vh - 64px);
+    vertical-align: middle;
+    line-height: calc(100vh - 64px);
+    
+}
+.agent_fund_stic_root{
+    height: 200px;
+}
+.agent_fund_stic_card{
+    float: left;
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.agent_fund_stic_item{
+    font-size: 20px;
+}
+.agent_fund_stic_item_label{
+    display: inline-block;
+    margin-left: 10px;
+    width: 120px;
+}
+.agent_fund_stic_item_value{
+    display: inline-block;
+    width: 150px;
+}
+.agent_fund_stic_item_value span{
+    color:#ffa040;
+}

@@ -1,0 +1,11 @@
+.meter_report_form_root
+{
+  display: 'inline-block';
+  margin: 5px;
+}
+.meter_report_form_label
+{
+  width:100;
+  display:'inline-block';
+  text-align: right;
+}

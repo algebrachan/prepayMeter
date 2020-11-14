@@ -1,0 +1,110 @@
+.syspre_param_info_root
+{
+  margin:0 20px;
+  padding: 10px;
+}
+
+.syspre_param_info_anchor
+{
+  position: fixed;
+  width: 200px;
+}
+
+.syspre_param_info_select
+{
+    vertical-align: middle;
+    margin-bottom: 10px;
+    color: #ff7875;
+    font-size: 15px;
+}
+
+.syspre_param_info_item_root
+{
+  width: 550;
+  padding:10px;
+}
+.syspre_param_info_item_note{
+  margin-left: 20px;
+  color: #ff7875;
+}
+
+.param_info_item
+{
+  display: inline-block;
+  margin: 5px;
+}
+
+.param_info_weekday{
+  display: inline-block;
+  width: 300px;
+}
+.param_info_item_label
+{
+  display: inline-block;
+  width: 120px;
+  text-align: right;
+}
+
+.param_info_item_input
+{
+  display: inline-block;
+  width: 300px;
+}
+
+.param_dynamic_delete_button {
+  cursor: pointer;
+  position: relative;
+  font-size: 20px;
+  color: #999;
+  transition: all 0.3s;
+  margin-left: 10px;
+}
+
+.param_item_add_button
+{
+  display: block;
+  margin-left: 25%;
+  width: 60%;
+}
+
+.param_tbls_root
+{
+  padding: 20px;
+  border: 1px solid #e8e8e8;
+}
+
+.param_tbls_title
+{
+  text-align: center;
+}
+
+.param_tbls_btn
+{
+  margin:0 auto;
+  margin-left: 40px;
+}
+
+.param_tbls_modal_root
+{
+  margin:10px;
+}
+
+.param_tbls_modal_input
+{
+  width: 170px;
+  vertical-align: middle;
+  margin-left: 70px;
+}
+
+.param_tbls_modal_select
+{
+  width: 160px;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+.syspre_param_info_item_title{
+  font-size: 18px;
+  color:#118dfa;
+
+}
+

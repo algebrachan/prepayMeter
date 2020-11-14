@@ -1,0 +1,36 @@
+.user_devs_link
+{
+    color: #118dfa;
+    cursor: pointer;
+}
+.user_devs_link :hover
+{
+    color:  #82bef3;
+}
+.user_devs_link :active
+{
+    color:  #0d508b;
+}
+.user_dev_cost
+{
+    color:#d86c14;
+}
+.user_dev_cost_red
+{
+    color: red;
+}
+.user_dev_cost_green
+{
+    color:green;
+}
+.user_dev_header_state
+{
+    width: 140px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.user_dev_header_btn_search
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}

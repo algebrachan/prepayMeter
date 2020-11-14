@@ -1,0 +1,22 @@
+.meterinfo_statistics_header_root
+{
+    height: 80px;
+    line-height: 40px;
+}
+
+.meterinfo_statistics_header_state
+{
+    width: 140px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.meterinfo_statistics_header_btn_search
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.meterinfo_statistics_input_date
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}

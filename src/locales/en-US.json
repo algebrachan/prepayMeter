@@ -1,0 +1,227 @@
+{
+    "COMMON": {
+        "TOTAL": "Total",
+        "ITME": "items",
+        "OPER": "Operation",
+        "STATE": "State",
+        "COUNT": "Count",
+        "NAME": "Name",
+        "NUMBER": "Number",
+        "UNIT_COUNT": "pcs",
+        "UNIT_MONEY": "RMB",
+        "WX": "WeChat",
+        "ALI": "Alipay",
+        "CASE": "Cash",
+        "BANK": "Bank Card",
+        "COR_ACT": "Corporate Account",
+        "ORDER_NO": "Order ID",
+        "DEV_NO": "Device ID",
+        "BEGIN_TIME": "Begin Time",
+        "END_TIME": "End Time"
+    },
+    "METER": {
+        "UN_BIND": "unbind",
+        "CLOSE": "close",
+        "PULL": "pull",
+        "RCG": "recharge"
+    },
+    "COMMON_MESSAGE": {
+        "NET_ERROR": "Network Anomaly",
+        "RST_SUCS": "Request Success",
+        "RST_FAIL": "Request Fail",
+        "SAVE_SUCS": "Save Success",
+        "SAVE_FAIL": "Save Fail",
+        "OPER_SUCS": "Operation Success",
+        "OPER_FAIL": "Operation Fail",
+        "SEND_SUCS": "Send Success",
+        "SET_SUCS": "Set Successs",
+        "LENGTH_CHECK": "Please input less than 20 characters",
+        "PHONE_CHECK": "Please input the correct phone number",
+        "NUMBER_CHECK": "Please input the correct number",
+        "RCG_5000": "The amount of single recharge shall not exceed 5000 yuan"
+    },
+    "COMMON_BTN": {
+        "SEARCH": "Search",
+        "REFRESH": "Refresh",
+        "ADD": "Add",
+        "EDIT": "Edit",
+        "DELETE": "Delete",
+        "LOOK": "Look",
+        "PREVIEW": "Preview",
+        "PRINT": "Print",
+        "SUBMIT": "Submit",
+        "RESET": "Reset",
+        "SET": "Set",
+        "BATCH_IMPORT": "Batch Import",
+        "BATCH_CFG": "Batch Config",
+        "OUTPUT": "Export",
+        "ADD_ACT": "Add Account",
+        "DEL_ACT": "Del Account",
+        "ADD_USER": "Add User"
+    },
+    "COMMON_IPT": {
+        "SEARCH_IPT": "input search text"
+    },
+    "LOGIN": {
+        "TITLE": "Smart Energy Management Platform",
+        "IPT_PH_ACT": "input account",
+        "IPT_PH_PSW": "input password",
+        "SUBMIT": "Login",
+        "PSW": "Password",
+        "MSG_LOGIN_SUC": "Login Success",
+        "MSG_ACCOUNT_ERR": "Please input account or password",
+        "MSG_SYS_ERR": "Please select system"
+    },
+    "HEADER": {
+        "LOGOUT": {
+            "BTN": "Log out",
+            "MODAL": {
+                "TITLE": "Logout",
+                "CONTENT": "Are you sure you want to log out?"
+            }
+        }
+    },
+    "MENU": {
+        "SYSPRE_SUPER_ADMIN": "Super Admin",
+        "AGENT_MANAGE": "Management of Agent",
+        "USER_MANAGE": "Management of User",
+        "GTWY_MANAGE": "Management of Gateway",
+        "METER_MANAGE": "Management of Meter",
+        "ACCOUNT_MANAGE": "Account Manage",
+        "AGENT_ACCOUNT": "Agent Account",
+        "MOD_PSW": "Modify Password",
+        "AGENT_SYS": "Agent Manage System",
+        "AB_DEV": "Abnormal Devices",
+        "GROUP_MANAGE": "Management of Group",
+        "METER_ORDER": "Order of Meter",
+        "PARAM": "Param",
+        "PARAM_TEMP": "Template",
+        "MANAGER": "Manager",
+        "BOOK": "Bookkeeping",
+        "USER": "User",
+        "STIC": "Statistics",
+        "STIC_ELECT": "Electricity Statistics",
+        "STIC_FLOE": "Bills Statistics",
+        "SETTING": "Setting",
+        "MY_ACT": "My Account",
+        "WX": "WeChat",
+        "ALI": "Alipay",
+        "MSG": "Short Message"
+    },
+    "HOMEPAGE": {
+        "DATASHOW": {
+            "DATA_TODAY": "Date of Today",
+            "DATA_MONTH": "Data of Current Month",
+            "DATA_YEAR": "Data of Current Year",
+            "ELECT": "Electricity(kwh)"
+        },
+        "DEV_USE": {
+            "TITLE": "Equipment Working",
+            "NORMAL": "Normal",
+            "PROBABLY": "Probably",
+            "ABNORMAL": "Abnormal"
+        },
+        "DT_USE": {
+            "TITLE": "Electricity of Day",
+            "ELECT": "Electricity(kwh)",
+            "DATE": "Date"
+        },
+        "FUND_STIC": {
+            "DATE_STIC": "Statistics of Day",
+            "MONTH_STIC": "Statistics of Month",
+            "YEAR_STIC": "Statistics of Year",
+            "TOTAL_ORDER": "Total",
+            "WX_ORDER": "WeChat",
+            "ALI_ORDER": "Alipay",
+            "CASH_ORDER": "Cash"
+        }
+    },
+    "AGENT_LIST": {
+        "HEADER": {
+            "NAME": "Agent Name",
+            "NUMBER": "Agent ID",
+            "PHONE": "Phone"
+        },
+        "TABLE": {
+            "TYPE": "Agent Type",
+            "TYPE_COMP": "Enterprise",
+            "TYPE_P": "Personal",
+            "OWNER": "Owner",
+            "ADDR": "Address"
+        },
+        "MODAL": {
+            "ADD": "Add Agent",
+            "EDIT": "Edit Agent",
+            "NUMBER_PH": "auto create agent number",
+            "NAME_MSG": "please input agent name",
+            "NAME_PH": "agent",
+            "TYPE_MSG": "please select agent type",
+            "OWNER_MSG": "please input owner",
+            "OWNER_PH": "owner",
+            "PHONE_MSG": "please input phone number",
+            "PHONE_PH": "phone",
+            "ADDR_MSG": "please input address",
+            "ADDR_PH": "address"
+        }
+    },
+    "AGENT_INFO": {
+        "INFO": "Agent Information",
+        "AUTH": {
+            "MANAGE": "Authority Management",
+            "SECT_ALL": "Select All",
+            "TITLE": "Please comfirm set authority",
+            "RPT": "rate period table",
+            "RATE": "rates",
+            "TP": "tiered pricing",
+            "PC": "period control",
+            "ER": "electricity coefficient",
+            "GATE": "gate",
+            "ME": "manual electricity sales"
+        }
+    },
+    "USER_LIST": {
+        "NAME": "Name",
+        "ACCOUNT": "Account",
+        "PHONE": "Phone",
+        "DEL_TITLE": "Are you sure to delete the user",
+        "MODAL": {
+            "ADD": "Add User",
+            "EDIT": "Edit User",
+            "GET_VCODE": "Get Vcode",
+            "RSEND": "Resend",
+            "ACT_PH": "auto create account id",
+            "NAME_MSG": "please input name",
+            "PHONE_MSG": "please input phone number",
+            "CODE": "Verification Code",
+            "CODE_MSG": "please input verification code"
+        }
+    },
+    "USER_INFO": {
+        "INFO": "User Information",
+        "ACT_INFO": "Account Info",
+        "CRT_ORDER": "Current Order",
+        "ORDER_LOG": "Order Record",
+        "PAY_LOG": "Pay Record",
+        "FLOW": "Serial Number",
+        "RCG_TIME": "Recharge Time",
+        "PAY_AMT": "Pay Amount(RMB)",
+        "PAY_NAME": "Pay Name",
+        "METER_RCG": "Meter Recharge",
+        "PAY_TARGET": "Pay Target",
+        "PAY_WAY": "Pay Method",
+        "EVID": "Platform Transaction Number",
+        "DT": "Elect Consumption(Kwh)",
+        "COST": "Accumulated Cost(RMB)",
+        "LEFT": "Left(RMB)",
+        "RMK": "Notes",
+        "BEGIN_E": "Begin Electricity",
+        "CURT_E": "Current Electricity",
+        "COST_1": "Cost(RMB)",
+        "BLAS": "Balance(RMB)",
+        "MODAL_CF": "Be sure to ",
+        "CSTM_NO": "Customer Number",
+        "RCG_MONEY": "Recharge Amount",
+        "RCG_MONEY_MSG": "please input correct recharge amount",
+        "PAY_WAY_MSG": "please select payment method"
+    }
+}

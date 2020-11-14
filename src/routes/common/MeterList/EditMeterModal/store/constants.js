@@ -1,0 +1,3 @@
+export const METER_MODAL_ADD = 'METER_MODAL_ADD';
+export const METER_MODAL_EDIT = 'METER_MODAL_EDIT';
+export const METER_MODAL_HIDE = 'METER_MODAL_HIDE';

@@ -1,0 +1,2 @@
+export const RATES_MODAL_EDIT = 'RATES_MODAL_EDIT';
+export const RATES_MODAL_HIDE = 'RATES_MODAL_HIDE';

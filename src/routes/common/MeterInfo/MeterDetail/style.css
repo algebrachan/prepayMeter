@@ -1,0 +1,13 @@
+.meter_detail_link
+{
+    color: #118dfa;
+    cursor: pointer;
+}
+.meter_detail_link :hover
+{
+    color:  #82bef3;
+}
+.meter_detail_link :active
+{
+    color:  #0d508b;
+}

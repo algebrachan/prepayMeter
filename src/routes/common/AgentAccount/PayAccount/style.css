@@ -1,0 +1,86 @@
+.syspre_agent_account_pay_root{
+    margin:20px;
+}
+
+.syspre_agent_account_pay_card{
+  width: 600px;
+  margin:0 auto;
+}
+
+.syspre_agent_account_pay_msg{
+  width: 700px;
+  align-items: center;
+  margin:0 auto;
+}
+
+.agent_account_pay_title{
+    font-size: 18px;
+    color:#118dfa;
+  
+}
+
+.agent_account_pay_item
+{
+  display: block;
+  margin: 5px;
+}
+
+.agent_account_pay_item_label
+{
+  display: inline-block;
+  font-size: 18px;
+  vertical-align: top;
+  width: 150px;
+  text-align: right;
+}
+
+.agent_account_pay_item_text
+{
+  margin-left: 10px;
+  font-size: 18px;
+  color: green;
+}
+
+.agent_account_pay_item_input
+{
+  display: inline-block;
+  margin-left: 10px;
+  width: 300px;
+}
+
+.agent_account_pay_item_radio
+{
+  display: inline-block;
+  margin-left: 10px;
+  
+}
+
+.agent_account_pay_item_btn
+{
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.agent_account_pay_item_qr
+{
+  display: inline-block;
+  width: 460px;
+  text-align: center;
+}
+
+.agent_account_pay_item_qrcode
+{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5 auto;
+}
+.agent_account_pay_item_pid
+{
+  display: block;
+  margin-top: 5px;
+  font-size: 16px;
+}
+.modal_btn{
+  width: 100%;
+}

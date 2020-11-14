@@ -1,0 +1,16 @@
+.rates_root
+{
+    margin:10px;
+}
+.rates_input
+{
+    width: 150px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.rates_select
+{
+    width: 150px;
+    vertical-align: middle;
+    margin-left: 20px;
+}

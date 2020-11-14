@@ -1,0 +1,25 @@
+.syspre_param_add_btn{
+    display: block;
+    margin-left: 40px;
+}
+.syspre_param_item
+{
+  display: inline-block;
+  margin: 5px;
+}
+
+.syspre_param_item_label
+{
+  display: inline-block;
+  width: 120px;
+  font-size: 16px;
+  margin-left: 65px;
+  text-align: right;
+  vertical-align: top;
+}
+
+.syspre_param_item_input
+{
+  display: inline-block;
+  width: 300px;
+}

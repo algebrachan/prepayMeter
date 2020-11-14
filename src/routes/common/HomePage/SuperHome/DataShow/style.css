@@ -1,0 +1,64 @@
+.icon_blue
+{
+    color: #2196f3;
+}
+.icon_green
+{
+    color:#4caf50;
+}
+.icon_yellow
+{
+    color:#fb8c00;
+}
+.icon_red
+{
+    color: #ff6761;
+}
+.super_home_datapre_item
+{
+    float: left;
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    background-color: #fff;
+}
+/* 清除浮动 */
+.clearfix:after
+{
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+.super_home_datapre_item_title
+{
+    margin-top: 10px;
+    color: #596e7f;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 10px;
+}
+.super_home_datapre_item_content
+{   
+    margin-top: 20px;
+}
+.super_home_datapre_item_icon
+{
+    float: left;
+    width: 50px;
+    margin-left: 5px;
+    font-size: 30px;
+}
+.super_home_datapre_item_data
+{
+    float: right;
+    margin-right: 5px;
+}
+.super_home_datapre_item_label
+{
+    font-size: 15px;
+    font-weight: 550;
+    color: #596e7f;
+}

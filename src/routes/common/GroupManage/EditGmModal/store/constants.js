@@ -1,0 +1,3 @@
+export const GROUP_MODAL_ADD = 'GROUP_MODAL_ADD';
+export const GROUP_MODAL_EDIT = 'GROUP_MODAL_EDIT';
+export const GROUP_MODAL_HIDE = 'GROUP_MODAL_HIDE';

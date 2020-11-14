@@ -1,0 +1,44 @@
+
+.syspre_bookkeep_root
+{
+    background:white;
+    position: absolute;
+    margin:20px;
+    padding: 10px;
+}
+
+.syspre_bookkeep_card
+{
+    float: left;
+    margin:20px;
+    width: 400px;
+}
+.syspre_bookkeep_item
+{
+    display: inline-block;
+    margin:5px;
+}
+.syspre_bookkeep_item_label
+{
+    display: inline-block;
+    width: 120px;
+    font-size: 20px;
+}
+.syspre_bookkeep_item_content
+{
+    display: inline-block;
+    width: 200px;
+}
+
+.book_parking_root
+{
+    background-color: #fff;
+    margin: 20px;
+    min-height: calc(100vh - 104px);
+}
+.book_property_root
+{
+    background-color: #fff;
+    margin: 20px;
+    min-height: calc(100vh - 104px);
+}

@@ -1,0 +1,31 @@
+.meter_table_link
+{
+    color: #118dfa;
+    cursor: pointer;
+}
+.syspre_meter_header_wrap{
+    margin-bottom: 10px;
+}
+.syspre_meter_header_btn_search
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.syspre_meter_header_select
+{
+    vertical-align: middle;
+    margin-bottom: 10px;
+    color: #ff7875;
+    font-size: 15px;
+}
+.syspre_meter_header_span{
+    margin-left: 10px;
+    color:#999;
+}
+em{
+    /* color: #E2231A; */
+    color: #118dfa;
+    font-family: verdana;
+    font-weight: 600;
+    margin: 0 3px;
+}

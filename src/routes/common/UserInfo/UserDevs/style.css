@@ -1,0 +1,18 @@
+.user_devs_link
+{
+    color: #118dfa;
+    cursor: pointer;
+}
+.user_devs_link :hover
+{
+    color:  #82bef3;
+}
+.user_devs_link :active
+{
+    color:  #0d508b;
+}
+.user_dev_cost
+{
+    color:#d86c14;
+
+}

@@ -1,0 +1,25 @@
+.dynamic_delete_button {
+  cursor: pointer;
+  position: relative;
+  font-size: 20px;
+  color: #999;
+  transition: all 0.3s;
+  margin-left: 10px;
+}
+.rate_param_time
+{
+  display: inline-block;
+  width: 45%;
+}
+.rate_line
+{
+  display: inline-block;
+  width: 10%;
+  text-align: center;
+}
+.rate_add_button
+{
+  display: block;
+  margin-left: 19%;
+  width: 62%;
+}

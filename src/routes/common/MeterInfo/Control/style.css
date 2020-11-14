@@ -1,0 +1,23 @@
+.syspre_meterinfo_control
+{
+    margin-top: 50px;
+    align-content: center;
+}
+.meterinfo_control_card
+{
+    padding: 10px;
+    width: 400px;
+    margin: 0 auto;
+}
+.meterinfo_control_item
+{
+    margin:10px;
+}
+.meterinfo_control_btn
+{
+    margin-left: 15px;
+}
+.meterinfo_control_swh
+{
+    margin-bottom: 3px;
+}

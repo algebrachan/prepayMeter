@@ -1,0 +1,10 @@
+export const PARAM_TEMP_ADD = 'PARAM_TEMP_ADD';
+export const PARAM_TEMP_EDIT = 'PARAM_TEMP_EDIT';
+export const PARAM_TEMP_DISABLED = 'PARAM_TEMP_DISABLED';
+export const PARAM_TEMP_EDIT_RATE = 'PARAM_TEMP_EDIT_RATE';// 编辑费率
+export const PARAM_TEMP_EDIT_NORMAL = 'PARAM_TEMP_EDIT_NORMAL';// 编辑常规
+export const PARAM_TEMP_EDIT_TBL = 'PARAM_TEMP_EDIT_TBL';// 编辑时段表
+export const PARAM_TEMP_EDIT_SPS = 'PARAM_TEMP_EDIT_SPS';// 编辑阶梯计价
+export const PARAM_TEMP_EDIT_TMCTL = 'PARAM_TEMP_EDIT_TMCTL';// 编辑时段控制
+export const PARAM_TEMP_EDIT_RATIO = 'PARAM_TEMP_EDIT_RATIO';// 编辑电能系数
+

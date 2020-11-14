@@ -1,0 +1,25 @@
+.syspre_userlist_header_root
+{
+    height: 80px;
+    line-height: 80px;
+}
+
+.syspre_userlist_header_input_search
+{
+    width: 200px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.syspre_userlist_header_btn
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.syspre_userlist_header_state
+{
+    width: 140px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+

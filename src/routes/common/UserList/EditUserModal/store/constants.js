@@ -1,0 +1,3 @@
+export const USER_MODAL_ADD = 'USER_MODAL_ADD';
+export const USER_MODAL_EDIT = 'USER_MODAL_EDIT';
+export const USER_MODAL_HIDE = 'USER_MODAL_HIDE';

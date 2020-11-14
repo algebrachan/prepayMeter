@@ -1,0 +1,29 @@
+
+.syspre_home_header_avatar_div{
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.syspre_home_header_avatar{
+    cursor: pointer;   
+    background-color: #fde3cf; 
+}
+.syspre_home_header_avatar_text{
+    color: #7f8187;
+    font-size: 16px;
+}
+.syspre_home_header_avatar_text:hover{
+    color: #fff;
+}
+.company_title{
+    cursor: default;
+    float: left;
+    margin-left: 15px;
+    font-size: 20px;
+    color: #fff;
+}
+.syspre_home_header_select{
+    /* float: right; */
+    width: 80px;
+    margin-right: 10px;
+}

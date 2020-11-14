@@ -1,0 +1,227 @@
+{
+    "COMMON": {
+        "TOTAL": "总计",
+        "ITME": "条",
+        "OPER": "操作",
+        "STATE": "状态",
+        "COUNT": "数量",
+        "NAME": "名称",
+        "NUMBER": "编号",
+        "UNIT_COUNT": "个",
+        "UNIT_MONEY": "元",
+        "WX": "微信",
+        "ALI": "支付宝",
+        "CASE": "现金",
+        "BANK": "银行卡",
+        "COR_ACT": "对公账户",
+        "ORDER_NO": "订单编号",
+        "DEV_NO": "设备编号",
+        "BEGIN_TIME": "开始时间",
+        "END_TIME": "结束时间"
+    },
+    "METER": {
+        "UN_BIND": "解绑",
+        "CLOSE": "拉闸",
+        "PULL": "合闸",
+        "RCG": "充值"
+    },
+    "COMMON_MESSAGE": {
+        "NET_ERROR": "网络异常",
+        "RST_SUCS": "请求成功",
+        "RST_FAIL": "请求失败",
+        "SAVE_SUCS": "保存成功",
+        "SAVE_FAIL": "保存失败",
+        "OPER_SUCS": "操作成功",
+        "OPER_FAIL": "操作失败",
+        "SEND_SUCS": "发送成功",
+        "SET_SUCS": "设置成功",
+        "LENGTH_CHECK": "请输入小于20个字符",
+        "PHONE_CHECK": "请输入正确的联系方式",
+        "NUMBER_CHECK": "请输入正确的数字",
+        "RCG_5000": "单笔充值金额不超过5000元"
+    },
+    "COMMON_BTN": {
+        "SEARCH": "搜索",
+        "REFRESH": "刷新",
+        "ADD": "添加",
+        "EDIT": "编辑",
+        "DELETE": "删除",
+        "LOOK": "查看",
+        "PREVIEW": "预览",
+        "PRINT": "打印",
+        "SUBMIT": "提交",
+        "RESET": "重置",
+        "SET": "设置",
+        "BATCH_IMPORT": "批量导入",
+        "BATCH_CFG": "批量配置",
+        "OUTPUT": "导出",
+        "ADD_ACT": "添加账号",
+        "DEL_ACT": "删除账号",
+        "ADD_USER": "添加用户"
+    },
+    "COMMON_IPT": {
+        "SEARCH_IPT": "请输入搜索内容"
+    },
+    "LOGIN": {
+        "TITLE": "智慧能源管理平台",
+        "IPT_PH_ACT": "请输入账号",
+        "IPT_PH_PSW": "请输入密码",
+        "PSW": "密码",
+        "SUBMIT": "登录",
+        "MSG_LOGIN_SUC": "登录成功",
+        "MSG_ACCOUNT_ERR": "请输入账号和密码",
+        "MSG_SYS_ERR": "请选择系统"
+    },
+    "HEADER": {
+        "LOGOUT": {
+            "BTN": "退出登录",
+            "MODAL": {
+                "TITLE": "退出登录",
+                "CONTENT": "您确定要退出登录吗？"
+            }
+        }
+    },
+    "MENU": {
+        "SYSPRE_SUPER_ADMIN": "预付费超级管理员",
+        "AGENT_MANAGE": "经销商管理",
+        "USER_MANAGE": "用户管理",
+        "GTWY_MANAGE": "采集器管理",
+        "METER_MANAGE": "电表管理",
+        "ACCOUNT_MANAGE": "账号管理",
+        "AGENT_ACCOUNT": "经销商账号",
+        "MOD_PSW": "修改密码",
+        "AGENT_SYS": "经销商管理系统",
+        "AB_DEV": "异常设备",
+        "GROUP_MANAGE": "分组管理",
+        "METER_ORDER": "电表订单",
+        "PARAM": "参数",
+        "PARAM_TEMP": "模板列表",
+        "MANAGER": "管理员",
+        "BOOK": "记账本",
+        "USER": "用户",
+        "STIC": "统计",
+        "STIC_ELECT": "电量统计",
+        "STIC_FLOE": "流水统计",
+        "SETTING": "设置",
+        "MY_ACT": "我的账户",
+        "WX": "微信",
+        "ALI": "支付宝",
+        "MSG": "短信"
+    },
+    "HOMEPAGE": {
+        "DATASHOW": {
+            "DATA_TODAY": "日用电量",
+            "DATA_MONTH": "月用电量",
+            "DATA_YEAR": "年用电量",
+            "ELECT": "用电(度)"
+        },
+        "DEV_USE": {
+            "TITLE": "设备运行情况",
+            "NORMAL": "正常",
+            "PROBABLY": "可能异常",
+            "ABNORMAL": "异常"
+        },
+        "DT_USE": {
+            "TITLE": "每日用电",
+            "ELECT": "电能(度)",
+            "DATE": "日期"
+        },
+        "FUND_STIC": {
+            "DATE_STIC": "日统计",
+            "MONTH_STIC": "月统计",
+            "YEAR_STIC": "年统计",
+            "TOTAL_ORDER": "总订单",
+            "WX_ORDER": "微信订单",
+            "ALI_ORDER": "支付宝订单",
+            "CASH_ORDER": "现金订单"
+        }
+    },
+    "AGENT_LIST": {
+        "HEADER": {
+            "NAME": "经销商名称",
+            "NUMBER": "经销商ID",
+            "PHONE": "绑定手机号"
+        },
+        "TABLE": {
+            "TYPE": "经销商类型",
+            "TYPE_COMP": "企业",
+            "TYPE_P": "个人",
+            "OWNER": "负责人",
+            "ADDR": "地址"
+        },
+        "MODAL": {
+            "ADD": "添加经销商",
+            "EDIT": "编辑经销商",
+            "NUMBER_PH": "经销商ID自动创建",
+            "NAME_MSG": "请输入经销商名称",
+            "NAME_PH": "经销商",
+            "TYPE_MSG": "请选择经销商类型",
+            "OWNER_MSG": "请输入负责人",
+            "OWNER_PH": "负责人",
+            "PHONE_MSG": "请输入绑定手机号",
+            "PHONE_PH": "手机号",
+            "ADDR_MSG": "请输入地址",
+            "ADDR_PH": "地址"
+        }
+    },
+    "AGENT_INFO": {
+        "INFO": "经销商信息",
+        "AUTH": {
+            "MANAGE": "权限管理",
+            "SECT_ALL": "全选",
+            "TITLE": "请确认设置权限",
+            "RPT": "费率时段表",
+            "RATE": "费率",
+            "TP": "阶梯计价",
+            "PC": "时段控制",
+            "ER": "电能系数",
+            "GATE": "拉合闸",
+            "ME": "人工售电"
+        }
+    },
+    "USER_LIST": {
+        "NAME": "名称",
+        "ACCOUNT": "账号",
+        "PHONE": "绑定手机号",
+        "DEL_TITLE": "确认要删除用户",
+        "MODAL": {
+            "ADD": "添加用户",
+            "EDIT": "编辑用户",
+            "GET_VCODE": "点击获取验证码",
+            "RSEND": "重发",
+            "ACT_PH": "账号id自动创建",
+            "NAME_MSG": "请输入名称",
+            "PHONE_MSG": "请输入绑定手机号",
+            "CODE": "验证码",
+            "CODE_MSG": "请输入验证码"
+        }
+    },
+    "USER_INFO": {
+        "INFO": "用户信息",
+        "ACT_INFO": "账户信息",
+        "CRT_ORDER": "当前订单",
+        "ORDER_LOG": "订单记录",
+        "PAY_LOG": "支付记录",
+        "FLOW": "流水号",
+        "RCG_TIME": "充值时间",
+        "PAY_AMT": "支付金额(元)",
+        "PAY_NAME": "支付名称",
+        "METER_RCG": "电表充值",
+        "PAY_TARGET": "支付对象标识",
+        "PAY_WAY": "支付方式",
+        "EVID": "第三方平台交易单号",
+        "DT": "累计用电(度)",
+        "COST": "累计扣费(元)",
+        "LEFT": "结余(元)",
+        "RMK": "备注",
+        "BEGIN_E": "开始度数",
+        "CURT_E": "当前度数",
+        "COST_1": "扣费(元)",
+        "BLAS": "余额(元)",
+        "MODAL_CF": "确认要",
+        "CSTM_NO": "客户编号",
+        "RCG_MONEY": "充值金额",
+        "RCG_MONEY_MSG": "请输入正确的充值金额",
+        "PAY_WAY_MSG": "请选择支付方式"
+    }
+}

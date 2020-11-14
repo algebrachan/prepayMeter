@@ -1,0 +1,21 @@
+.agent_home_datashow_root
+{
+    height: 200px;
+}
+.agent_home_card
+{
+    width: 100%;
+
+}
+.agent_home_item_data_left
+{
+    float: left;
+}
+.agent_home_item_data_right
+{
+    float: right;
+}
+.agent_home_item_root
+{
+    display: block;
+} 

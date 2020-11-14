@@ -1,0 +1,137 @@
+.login_root{
+    margin:0 auto;
+	width:100%;
+	height:100%;
+    position:relative;
+}
+
+.login_root canvas {
+    width:100%;
+    /* height:auto; */
+    display:inline-block;
+    vertical-align:baseline;
+	position:absolute;
+	z-index:-1;
+}
+
+.login_root .canvaszz{  
+    width:100%;
+    height: 800px;
+	background-image: url(../../img/in_top_bj.png);
+    /* background-image: url(../../img/xingyun1.jpg);  */
+
+	position:absolute;
+	/* z-index:10; */
+	filter:alpha(opacity=40);
+    -moz-opacity:0.4;
+    -khtml-opacity:0.4;
+    opacity: 0.4;
+}
+
+.login_form
+{
+    position: absolute;
+    z-index:9999;
+    padding:30px;
+    width:400px;
+    left:50%;
+    margin-left:-205px;
+    margin-top: 200px;
+    top:50%;
+    background-color:rgba(0, 0, 0, 0);
+    border-radius: 5%;
+}
+
+.login_form .login_input
+{
+    margin: 20px 0;
+    height: 50px; 
+    background: rgba(0,0,0,0);
+    color: white; 
+}
+
+.login_input {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-variant: tabular-nums;
+    list-style: none;
+    -webkit-font-feature-settings: 'tnum';
+    font-feature-settings: 'tnum', "tnum";
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 32px;
+    padding: 4px 11px;
+    color: rgba(241, 228, 228, 0.65);
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: rgba(0,0,0,0.3);
+    background-image: none;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.signup {
+    width: 100%;
+    height: 44px;
+    text-align: center;
+}
+
+.signup a.gv {
+    text-decoration: none;
+    background: url(../../img/nav_gv.png) no-repeat center top;
+    width: 90%;
+    height: 43px;
+    display: inline-block;
+    text-align: center;
+    line-height: 43px;
+    cursor: pointer;
+    margin: 8px 20px 8px 20px;
+    font: 18px/43px 'microsoft yahei';
+    color: #066197;
+}
+
+.signup button.gv {
+    border: none;
+    background: url(../../img/nav_gv.png) no-repeat center top;
+    width: 132px;
+    height: 43px;
+    display: inline-block;
+    text-align: center;
+    line-height: 43px;
+    cursor: pointer;
+    margin: 8px 20px 8px 20px;
+    font: 18px/43px 'microsoft yahei';
+    color: #066197;
+}
+.signup button.gv:hover{
+    color: #6c9cb8;
+}
+
+.signup a.gv:hover{
+    color: #6c9cb8;
+}
+
+.submit
+{
+    width: 100%;
+    height: 44px;
+}
+
+h3{
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif,
+ "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
+    font-family:"Microsoft YaHei" ;
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+}
+
+.system
+{
+    color: white;
+}

@@ -1,0 +1,29 @@
+.book_property_table
+{
+    margin:10px;
+}
+
+.book_profee_header_root
+{
+    height: 80px;
+    line-height: 80px;
+}
+
+.book_profee_header_input_search
+{
+    width: 200px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+.book_profee_header_state
+{
+    width: 140px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+.book_profee_header_btn_search
+{
+    vertical-align: middle;
+    margin-left: 20px;
+}
